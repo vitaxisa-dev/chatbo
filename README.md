@@ -2,31 +2,21 @@
 <html>
  <head>
     <meta charset="uft-8">
-    <title> Trabajo de pagina</title>
+    <title> Chat bot </title>
  </Head>
 
  <body> 
- <h1><u><i>Textos en HTML</i></u></h1>
+ <h1><u><i>Chat Bot</i></u></h1>
     <h2>Tamaño</h2>
-    <p><big>Se debe de mostrar asi</big></p>
-    <p><small>Se debe de mostrar asi</small></p>
-    <br>  
-         <center>
-    <h2>Subindice</h2>
-    <p>Subindice<sub>2</sub></p>
-    <p>Superinicde<sup>2</sup></p>
-        </center>
-
-    <h3>Formatps</h3>
-    <p><b>Negritas</b></p>
-    <p><u>Subrayado</u></p>
-    <p><i>Italica</i></p>
-
-   <br>
-    <p><s>Tachado</s></p>
-    <p><mark>Marcado</mark></p>
+    <p><big>INTEGRANTES</big></p>
+    <p><b>Roles</b></p>
+    <p>Alejandro Mauricoo Benitez Huerta: Desarrollador</p>
+    <p>Mirsa Ximena Cervantes Rodigrez: PO</p>
+    <p>Stefano Maximiliano Gaspar Castañeda: Desarrollador</p>
+    <p>Pilar Alejandra Hernandez Mendoza: ScrumMaster</p>
+    <p>Flor Isabel Villa Tapia: Desarrollador</p>
+    <p><small>Imagen representativa</small></p>
+  
     
-
-
  </body>
 </html>
