@@ -20,3 +20,4 @@
     
  </body>
 </html>
+![Equipo](https://github.com/user-attachments/assets/0a08de03-5961-46ce-938d-2039d453350c)
