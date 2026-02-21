@@ -17,7 +17,8 @@
     <p>Flor Isabel Villa Tapia: Desarrollador</p>
     <p><small>Imagen representativa</small></p>
   
-    
+ <img width="501" height="495" alt="image" src="https://github.com/user-attachments/assets/3731c253-a7e3-4e0e-9dfa-65fde7fa3d75" />
+
+
  </body>
 </html>
-![Equipo](https://github.com/user-attachments/assets/0a08de03-5961-46ce-938d-2039d453350c)
